@@ -1,8 +1,7 @@
 # GAME-Turtle-Race
 Bet on your turtle color
 
-![image](https://github.com/ikhsanmasu/GAME-Turtle-Race/assets/76894210/2f28d8e5-1ccf-4a9e-a3f5-e9f56c45c2b9)
-
+![275740229-ff6e9ead-0fae-4d68-ba1e-fd485c623fca](https://github.com/ikhsanmasu/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/assets/76894210/6b5f0afe-b27c-4032-a4c6-8c3335e550a4)
 
 download the exe file to play: https://drive.google.com/file/d/1LLKVzmarzLClACYnkJB5oDZMvuPrMSq0/view?usp=drive_link <br />
 
