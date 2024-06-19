@@ -1,7 +1,8 @@
 # Rain_notification
 Send you a WhatsApp message to bring an umbrella if it's going to rain today.
 
-![image](https://github.com/ikhsanmasu/Rain_notification/assets/76894210/f7cebcc2-22f2-454f-990d-433270fdd7c7)
+![277240939-f7cebcc2-22f2-454f-990d-433270fdd7c7](https://github.com/ikhsanmasu/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/assets/76894210/ee2928ce-5483-458f-8ddf-d5246886189c)
+
 
 Step:
 1. Register https://openweathermap.org and get API key
