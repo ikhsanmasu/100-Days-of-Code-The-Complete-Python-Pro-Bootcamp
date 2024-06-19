@@ -1,7 +1,8 @@
 # Pomodoro-Timer
 Manage your work/study using Pomodoro technic
 
-![image](https://github.com/ikhsanmasu/Pomodoro-Timer/assets/76894210/7d76b0ae-7e3a-4adf-8808-7370845dfad9)
+![275740229-ff6e9ead-0fae-4d68-ba1e-fd485c623fca](https://github.com/ikhsanmasu/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/assets/76894210/70e117b0-9dad-4760-8128-215243bcdbce)
+
 
 download EXE file to use it: https://drive.google.com/file/d/1n8Cc9HdDlTWz9AHFwpCkiSda9DbKzhQi/view?usp=share_link <br />
 
