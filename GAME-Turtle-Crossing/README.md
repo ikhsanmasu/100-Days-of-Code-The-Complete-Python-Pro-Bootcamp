@@ -2,7 +2,8 @@
 Make the turtle cross the road safely
 Download the exe file on GitHub to play it
 
-![image](https://github.com/ikhsanmasu/GAME-Turtle-Crossing/assets/76894210/1d720dbb-942b-4f1f-9c74-7c5d6c15456e)
+![275740229-ff6e9ead-0fae-4d68-ba1e-fd485c623fca](https://github.com/ikhsanmasu/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/assets/76894210/7d64d5ea-d0ee-44c7-a776-87b401dec87a)
+
 
 download exe file to play: https://drive.google.com/file/d/1kI6rMd5iMB4H82TGsbgxi92OZftjMGzd/view?usp=drive_link <br />
 
