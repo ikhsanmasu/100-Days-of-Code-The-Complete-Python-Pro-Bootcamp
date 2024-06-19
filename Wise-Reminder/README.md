@@ -1,7 +1,8 @@
 # Wise-Reminder
 An app that gives random quotes
 
-![image](https://github.com/ikhsanmasu/Wise-Reminder/assets/76894210/73e513f1-5cf7-4f0e-82ec-c0886b381046)
+![Screenshot 2024-06-19 230509](https://github.com/ikhsanmasu/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/assets/76894210/c7e63cfc-de4c-4a44-84d3-8eca582c1f38)
+
 
 download the exe file to try: https://drive.google.com/file/d/1BhiGIBdjhz9AzyUsCjaZSi2kDCmowXer/view?usp=sharing <br>
 
