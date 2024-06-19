@@ -1,7 +1,8 @@
 # Bitcoin_SMS_News
 Send an SMS notification if the bitcoin price rises or is down by more than 5% and give a link to news related to that
 
-![image](https://github.com/ikhsanmasu/Bitcoin_SMS_News/assets/76894210/a8b00b9c-4e31-4cbf-93f8-0c61e7fe10fa)
+![277544725-a8b00b9c-4e31-4cbf-93f8-0c61e7fe10fa](https://github.com/ikhsanmasu/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/assets/76894210/dd47e337-aa57-4d5e-b5b7-a5bedf52154a)
+
 
 Step:
 
