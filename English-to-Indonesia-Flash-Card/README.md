@@ -1,7 +1,8 @@
 # English-to-Indonesia-Flash-Card
 Flash Card to help you learn about English Vocabulary
 
-![image](https://github.com/ikhsanmasu/English-to-Indonesia-Flash-Card/assets/76894210/b7a03309-f617-4727-be1f-8644d485d1bf)
+![276262352-b7a03309-f617-4727-be1f-8644d485d1bf](https://github.com/ikhsanmasu/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/assets/76894210/e3218377-b7c2-49c1-aca8-76b1b6dc6757)
+
 
 download exe file to use it: https://drive.google.com/file/d/1xJr8y-hsTuc_LSwxiKO9w-QkhVISfC1x/view?usp=share_link <br>
 
